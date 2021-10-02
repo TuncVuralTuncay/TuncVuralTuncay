@@ -8,4 +8,4 @@
   
   <h3>🍠Github stats:<h3>
     
-    <img src"https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+    <img src"https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
