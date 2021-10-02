@@ -5,7 +5,7 @@
   <li>Yeni yazılım dilleri öğrenmeye bayılırım</li>
   <li>Botumuza bir şans verip eklemeye ne dersin ha! Botu eklemek için <a href="https://discord.com/oauth2/authorize?client_id=845967250288672778&scope=bot">bana tıkla !</a>
   <li>Github sayfamı takip etmeyi unutma !</li>
-  
+ </ul>
   <h3>🍠Github stats:<h3>
     
-    <img src"https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src"https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
