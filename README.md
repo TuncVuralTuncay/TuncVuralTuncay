@@ -9,6 +9,7 @@
  <h3>💨Sosyal medya hesaplarım:</h3>
   <a href="https://discord.com/users/851543924610564107" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/tuncvrdev/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/Tuncvrjs"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <h3>🍠Github stats:<h3>
  <p align="left">
 <a href="https://github/Tuncvrjs">
