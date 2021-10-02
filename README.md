@@ -6,8 +6,8 @@
   <li>Botumuza bir şans verip eklemeye ne dersin ha! Botu eklemek için <a href="https://discord.com/oauth2/authorize?client_id=845967250288672778&scope=bot">bana tıkla !</a>
   <li>Github sayfamı takip etmeyi unutma !</li>
  </ul>
- <h3>💨Sosyal medya hesaplarım:<h3>
-  <a href="https://discord.com/users/851543924610564107">
+ <h3>💨Sosyal medya hesaplarım:</h3>
+  <a href="https://discord.com/users/851543924610564107" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <h3>🍠Github stats:<h3>
  <p align="left">
 <a href="https://github/Tuncvrjs">
