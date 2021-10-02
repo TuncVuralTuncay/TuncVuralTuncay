@@ -9,6 +9,6 @@
   <h3>🍠Github stats:<h3>
     <p align="left">
       <a href="https://github/Tuncvrjs"
-    <img height="180em" src"https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>  </a>
   </p>
+  </a>
