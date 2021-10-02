@@ -10,6 +10,7 @@
   <a href="https://discord.com/users/851543924610564107" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/tuncvrdev/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/Tuncvrjs"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UC-3BR8drBsf0RYrjl2egCAw"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   <h3>🍠Github stats:<h3>
  <p align="left">
 <a href="https://github/Tuncvrjs">
