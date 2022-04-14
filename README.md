@@ -20,5 +20,5 @@
   </a>
   <a href="https://tuncvr.glitch.me/">Kişisel web sitem</a>
 <h1 align="center" style="color:#fff">
-  
+  <img src="https://komarev.com/ghpvc/?username=Tuncvrjs&style=for-the-badge&color=red" target"_blank">
 </h1>
