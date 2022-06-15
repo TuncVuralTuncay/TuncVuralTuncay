@@ -15,7 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=Tuncvrjs&style=for-the-badge&color=red" target"_blank">
   <h3>🍠Github stats:<h3>
  <p align="left">
-   ![Github stats](https://github-readme-stats.vercel.app/api?username=tuncvrjs&show_icons=true&theme=tokyonight&locale=tr&cache_seconds=86400)
+   <a href="https://github.com/tuncvrjs/">
+   <img src="https://github-readme-stats.vercel.app/api?username=tuncvrjs&show_icons=true&theme=tokyonight&locale=tr&cache_seconds=86400">
   </p>
   </a>
   <a href="https://tuncvr.glitch.me/">Kişisel web sitem</a>
