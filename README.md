@@ -16,10 +16,10 @@
   <h3>🍠Github stats:<h3>
  <p align="left">
    <a href="https://github.com/tuncvrjs/">
-   <img src="https://github-readme-stats.vercel.app/api?username=tuncvrjs&show_icons=true&theme=tokyonight&locale=tr&cache_seconds=86400">
+   <img src="https://github-readme-stats.vercel.app/api?username=tuncvrjs&show_icons=true&theme=tokyonight&locale=en&cache_seconds=86400">
   </p>
   </a>
-  <h3>📚Most popular languages</h3>
+  <h3>📚Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncvrjs&langs_count=8&cache_seconds=1800">
   <a href="https://tuncvr.glitch.me/">Kişisel web sitem</a>
 <h1 align="center" style="color:#fff">
