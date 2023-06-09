@@ -1,9 +1,7 @@
 
 <h3>🍕Hakkımda:</h3>
 <ul>
-  <li>Peki Ya ben kimim ? işte cevabı: Ben * yaşında kendi halinde yazılımla uğraşan bir insanım yazılıma devam ederken okul hayatımada devam ediyorum * sınıfa gidiyorum</li>
-  <li>Discord bot yapmayı severim</li>
-  <li>Yeni yazılım dilleri öğrenmeye bayılırım</li>
+  <li>Peki Ya ben kimim ? işte cevabı: Ben 14 yaşında kendi halinde yazılımla uğraşan bir insanım yazılıma devam ederken okul hayatımada devam ediyorum 9. sınıfa gidiyorum</li>
   <li>Github sayfamı takip etmeyi unutma !</li>
  </ul>
  <h3>💨Sosyal medya hesaplarım:</h3>
